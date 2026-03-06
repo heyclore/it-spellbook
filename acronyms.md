@@ -107,6 +107,7 @@
 - DIMM – Dual Inline Memory Module  
 - DKIM – DomainKeys Identified Mail  
 - DLL – Dynamic Link Library  
+- DLP - Data Loss Prevention
 - DMARC – Domain-based Message Authentication, Reporting and Conformance  
 - DMZ – Demilitarized Zone  
 - DNS – Domain Name System  
@@ -127,6 +128,8 @@
 - EC2 – Elastic Compute Cloud  
 - ECDSA – Elliptic Curve Digital Signature Algorithm  
 - EDR – Endpoint Detection and Response  
+- EDP - Endpoint Protection Platform
+- EDR - Endpoint Protection Response
 - EEPROM – Electrically Erasable Programmable Read-Only Memory  
 - EFS – Encrypted File System  
 - EIGRP – Enhanced Interior Gateway Routing Protocol  
@@ -431,6 +434,7 @@
 - PEM – Privacy-Enhanced Mail  
 - PHP – Hypertext Preprocessor  
 - PKI – Public Key Infrastructure  
+- PLoP - Principle of Least Privilage
 - PM2 – Process Manager 2  
 - PoC – Proof of Concept  
 - POP3 – Post Office Protocol version 3  
